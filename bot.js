@@ -13,7 +13,7 @@ const dbName = 'Pbot';
 
 const admins = ['5397992078', '5606990991']
 let channelId = '-1001902665212'; // fsub Channel Id
-let logId = '-4220565048'; // Log group Id
+let logId = '-1002168567134'; // Log group Id
 let dbId = '-1002008957712'; // db group Id
 let botUsername;
 let botId;
