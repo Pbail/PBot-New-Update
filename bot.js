@@ -255,7 +255,7 @@ function main() {
             }],
             [{
                 text: 'UPDATE CHANNEL',
-                url: 'https://t.me/anonymous_robots'
+                url: 'https://t.me/Pbail_Movie_Channel'
             }]
         ];
         const replyMarkup = {
