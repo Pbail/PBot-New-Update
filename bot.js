@@ -6,8 +6,8 @@ const {
 } = require('mongodb');
 require('dotenv').config();
 
-const bot = new Telegraf(process.env.BOT_TOKEN);
-const client = new MongoClient(process.env.MONGOURI);
+const bot = new Telegraf('7176585147:AAETQUAgBIlsxLQprquJkQUUNV0K47nVV3o');
+const client = new MongoClient('mongodb+srv://moviessearchbot:moviessearchbot@cluster0.gxqztlk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0');
 
 const admins = ['5397992078', '5606990991']
 let logId = '-1002168567134'; // Log group Id
